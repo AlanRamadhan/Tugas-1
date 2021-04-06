@@ -24,3 +24,4 @@ public class profile extends AppCompatActivity {
         });
     }
 }
+//7 april 2021, 10118427, Alan ramadhan, IF-10

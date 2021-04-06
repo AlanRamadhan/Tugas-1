@@ -56,3 +56,4 @@ public class DBHelper extends SQLiteOpenHelper {
             return false;
     }
 }
+//6 april 2021, 10118427, Alan ramadhan, IF-10

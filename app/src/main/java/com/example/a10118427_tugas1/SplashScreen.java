@@ -31,3 +31,4 @@ public class SplashScreen extends AppCompatActivity {
         }, 3000L); //3000 L = 3 detik
     }
 }
+//6 april 2021, 10118427, Alan ramadhan, IF-10

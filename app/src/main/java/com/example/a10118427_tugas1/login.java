@@ -67,3 +67,4 @@ public class login extends AppCompatActivity {
         return result;
     }
 }
+//6 april 2021, 10118427, Alan ramadhan, IF-10
