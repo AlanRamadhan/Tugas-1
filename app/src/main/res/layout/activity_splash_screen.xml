@@ -16,5 +16,12 @@
         android:backgroundTint="#FFFFFF"
         android:scaleType="centerCrop"
         android:src="@drawable/splashscreen"/>
-
+    <TextView
+        android:id="@+id/tanggalpengerjaan"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="6 april 2021, 10118427, Alan Ramadhan, IF-10"
+        android:gravity="center_vertical"
+        tools:layout_editor_absoluteX="174dp"
+        tools:layout_editor_absoluteY="308dp" />
 </RelativeLayout>
