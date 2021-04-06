@@ -31,8 +31,8 @@ public class login extends AppCompatActivity {
 
         TextView tvCreateAccount = (TextView)findViewById(R.id.tvCreateAccount);
 
-        tvCreateAccount.setText(fromHtml("I don't have account yet. " +
-                "</font><font color='#3b5998'>create one</font>"));
+        tvCreateAccount.setText(fromHtml("Saya Belum Punya Akun. " +
+                "</font><font color='#3b5998'>Buat Akun</font>"));
         tvCreateAccount.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {

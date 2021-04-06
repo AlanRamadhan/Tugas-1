@@ -32,7 +32,7 @@ public class Register extends AppCompatActivity {
 
         TextView tvRegister = (TextView)findViewById(R.id.tvRegister);
 
-        tvRegister.setText(fromHtml("Back to " +
+        tvRegister.setText(fromHtml("Kembali Ke " +
                 "</font><font color='#3b5998'>Login</font>"));
 
         tvRegister.setOnClickListener(new View.OnClickListener() {
