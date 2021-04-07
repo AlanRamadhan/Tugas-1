@@ -24,12 +24,5 @@
         android:text="Logout"
         android:layout_marginBottom="10dp"
         style="@style/Widget.AppCompat.Button.Colored"/>
-    <TextView
-        android:id="@+id/tanggalpengerjaan"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="7 april 2021, 10118427, Alan Ramadhan, IF-10"
-        android:gravity="center_vertical"
-        tools:layout_editor_absoluteX="174dp"
-        tools:layout_editor_absoluteY="308dp" />
+
 </LinearLayout>
